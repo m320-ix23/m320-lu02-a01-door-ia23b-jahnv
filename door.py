@@ -6,7 +6,6 @@ class Door:
     Das verriegeln selber delegiert die Türe an ein Objekt vom Typ Door_lock (Türschloss).
 
 
-
     """
 
     # Mit dem Keyword def wird eine Funktion bzw. eben ein Konstruktor deklariert.
